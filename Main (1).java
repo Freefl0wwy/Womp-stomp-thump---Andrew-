@@ -21,7 +21,7 @@ class Main {
         default:
           System.out.println("That isn't a valid response. Try again.");
           input.next();
-      }
+      }Good job
     }
   }
   public static void Ponyo(){
